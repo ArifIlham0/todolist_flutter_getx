@@ -1,16 +1,25 @@
-# todolist_get_new
+## Built With
 
-A new Flutter project.
+This project was built using these technologies.
+
+- Flutter
+- GetX
+- Express.js
+- MongoDB
+
+Request Backend Repo: <a href="https://www.arifilham.my.id">here</a>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+git clone https://github.com/ArifIlham0/todolist_flutter_getx.git
+```
+```sh
+cd todolist_flutter_getx
+```
+```sh
+flutter pub get
+```
+```sh
+CTRL + F5 or flutter run
+```
